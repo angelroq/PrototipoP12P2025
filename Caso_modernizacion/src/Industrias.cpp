@@ -24,7 +24,7 @@ void Industrias::llamaciclo()
         promedioTransporte=0;
         cout << "*** Comparativo de Industrias ***" << endl << endl;
         llenarMatriz(camaraIndustria); //Calculo de las notas por facultad
-        promedioIndustria = imprimirMatriz(camaraIndustria, empresas, "Camara de Industria"); //Despliegue de valores por facultad
+        promedioIndustria = setImprimirMatriz(camaraIndustria, empresas, "Camara de Industria"); //Despliegue de valores por facultad
         llenarMatriz(camaraConstruccion);
         promedioConstruccion = imprimirMatriz(camaraConstruccion, empresas, "Camara de la construccion");
         llenarMatriz(camaraTransporte);
