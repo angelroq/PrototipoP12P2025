@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\angel r\documents\progra\prototipop12p2025\caso_modernizacion\main.cpp
+	<iostream>
+
+1744129502 source:c:\users\angel r\documents\progra\prototipop12p2025\caso_modernizacion\src\camaraconstruccion.cpp
+	"camaraConstruccion.h"
+
+1744129502 c:\users\angel r\documents\progra\prototipop12p2025\caso_modernizacion\include\camaraconstruccion.h
+
+1744129515 source:c:\users\angel r\documents\progra\prototipop12p2025\caso_modernizacion\src\camaratransporte.cpp
+	"camaraTransporte.h"
+
+1744129515 c:\users\angel r\documents\progra\prototipop12p2025\caso_modernizacion\include\camaratransporte.h
+
+1744129483 source:c:\users\angel r\documents\progra\prototipop12p2025\caso_modernizacion\src\camaraindustria.cpp
+	"camaraIndustria.h"
+
+1744130595 c:\users\angel r\documents\progra\prototipop12p2025\caso_modernizacion\include\camaraindustria.h
+
